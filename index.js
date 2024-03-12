@@ -8,7 +8,7 @@ const keys = [
     "bhf-scs-rfr",
     "dhr-chs-khy",
     "dhe-wur-fht",
-    "wpt-vhf-elt"
+    "wpt-vhf-elt",
 ]
 
 const keysData = {
@@ -19,15 +19,15 @@ const keysData = {
     "bhf-scs-rfr":{
         username:"Vivek",
         isUsed:false,
-    }
+    },
     "dhr-chs-khy":{
         username:"Ram",
         isUsed:false,
-    }
+    },
     "dhe-wur-fht":{
         username:"Prashant",
         isUsed:true,
-    }
+    },
     "wpt-vhf-elt":{
         username:"Yash",
         isUsed:true,
